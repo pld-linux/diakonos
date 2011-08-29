@@ -1,5 +1,6 @@
 #
-# TODO: custom user for config
+# TODO: - custom user for config
+#	- check files perms
 #
 Summary:	Customizable and usable console-based text editor
 Name:		diakonos
